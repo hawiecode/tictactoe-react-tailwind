@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tictactoe-react-tailwind/static/css/main.c0e178bc.css",
+    "main.js": "/tictactoe-react-tailwind/static/js/main.5beca554.js",
+    "index.html": "/tictactoe-react-tailwind/index.html",
+    "main.c0e178bc.css.map": "/tictactoe-react-tailwind/static/css/main.c0e178bc.css.map",
+    "main.5beca554.js.map": "/tictactoe-react-tailwind/static/js/main.5beca554.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e178bc.css",
+    "static/js/main.5beca554.js"
+  ]
+}
